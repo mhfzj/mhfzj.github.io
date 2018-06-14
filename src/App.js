@@ -16,8 +16,8 @@ class App extends Component {
         </div>
         <div id="pdf" className="App">
           <header className="App-header">
-            <img src={logo} className="App-logo" alt="logo" />
-            <h1 className="App-title">Welcome to React</h1>
+            {/* <img src={logo} className="App-logo" alt="logo" /> */}
+            <h1 className="App-title">Welcome to Home</h1>
           </header>
           {/* <ImageItem url="-1b4b7940a88588a3.jpg" /> */}
           {data.value.map(item => {
