@@ -1,6 +1,6 @@
 import React from 'react';
-import EXIF from 'exif-js';
-import {Cropper} from 'react-image-cropper';
+// import EXIF from 'exif-js';
+// import {Cropper} from 'react-image-cropper';
 import './ImageItem.less';
 // import ExifOrientationImg from 'react-exif-orientation-img';
 export default class ImageItem extends React.Component{
