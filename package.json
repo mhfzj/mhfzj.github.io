@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "antd": "^3.5.0",
+    "antd": "^3.6.2",
     "exif-js": "^2.3.0",
     "html-to-pdf": "^0.1.11",
     "html2canvas": "^1.0.0-alpha.12",
